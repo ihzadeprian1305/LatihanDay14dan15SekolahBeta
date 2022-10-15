@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722283834692",
+    "project_id": "storeapp-a0f0a",
+    "storage_bucket": "storeapp-a0f0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722283834692:android:29527651dcc4a75ed4fb11",
+        "android_client_info": {
+          "package_name": "com.example.latihanday14danday15sekolahbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722283834692-mbu7e4oi94uq29c0v2av2k69nk51v7u5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsphaFqrthd1DkbDO7r6B6MeBp964MPdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722283834692-mbu7e4oi94uq29c0v2av2k69nk51v7u5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
